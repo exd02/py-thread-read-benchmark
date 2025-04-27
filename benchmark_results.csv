@@ -1,0 +1,288 @@
+SYSTEM INFORMATION
+Processor,AMD Ryzen 7 5700X 8-Core Processor
+Physical Cores,8
+Total Threads,16
+RAM (GB),31.93
+Operating System,Windows 11
+
+BENCHMARK RESULTS
+Label,Execution,Time (s),Status
+A.py,run_1,0.563225899997633,warmup
+A.py,run_2,0.5586151000170503,warmup
+A.py,run_3,0.5565675999969244,warmup
+A.py,run_4,0.5523648000089452,valid
+A.py,run_5,0.5582289000158198,valid
+A.py,run_6,0.5586985000118148,valid
+A.py,run_7,0.5541486000001896,valid
+A.py,run_8,0.5583786999923177,valid
+A.py,run_9,0.5571864999947138,valid
+A.py,run_10,0.5644194000051357,valid
+A.py,run_11,0.5551104999904055,valid
+A.py,run_12,0.5637072999961674,valid
+A.py,run_13,0.5548529999796301,valid
+A.py,run_14,0.5531517000054009,valid
+A.py,run_15,0.5547647000057623,valid
+A.py,run_16,0.5576468999788631,valid
+A.py,run_17,0.5780314999865368,outlier
+A.py,run_18,0.6028124000004027,outlier
+A.py,run_19,0.5878350999846589,outlier
+A.py,run_20,0.5575689999968745,valid
+A.py,run_21,0.5597775000205729,valid
+A.py,run_22,0.5650358000129927,valid
+A.py,run_23,0.5626657000102568,valid
+A.py,run_24,0.5600029999914113,valid
+A.py,run_25,0.5746624999737833,valid
+A.py,run_26,0.5629039999912493,valid
+A.py,run_27,0.5598727999895345,valid
+A.py,run_28,0.5575799999933224,valid
+A.py,run_29,0.550458499987144,valid
+A.py,run_30,0.5533995000005234,valid
+A.py,mean_filtered,0.5586078249980346,computed
+B.py - 2 threads - Process,run_1,0.451335999998264,warmup
+B.py - 2 threads - Process,run_2,0.4522190999996383,warmup
+B.py - 2 threads - Process,run_3,0.4495824000041466,warmup
+B.py - 2 threads - Process,run_4,0.4585586999892257,valid
+B.py - 2 threads - Process,run_5,0.4561022999987472,valid
+B.py - 2 threads - Process,run_6,0.45681319999857806,valid
+B.py - 2 threads - Process,run_7,0.4549174999992829,valid
+B.py - 2 threads - Process,run_8,0.47395659997710027,valid
+B.py - 2 threads - Process,run_9,0.4909979999938514,valid
+B.py - 2 threads - Process,run_10,0.4644763999967836,valid
+B.py - 2 threads - Process,run_11,0.46593630002462305,valid
+B.py - 2 threads - Process,run_12,0.4745532000088133,valid
+B.py - 2 threads - Process,run_13,0.4455675999925006,valid
+B.py - 2 threads - Process,run_14,0.47751560001051985,valid
+B.py - 2 threads - Process,run_15,0.4560422000067774,valid
+B.py - 2 threads - Process,run_16,0.4547584999818355,valid
+B.py - 2 threads - Process,run_17,0.4809176000126172,valid
+B.py - 2 threads - Process,run_18,0.4754554000101052,valid
+B.py - 2 threads - Process,run_19,0.4757761000073515,valid
+B.py - 2 threads - Process,run_20,0.4591717000002973,valid
+B.py - 2 threads - Process,run_21,0.46044979998259805,valid
+B.py - 2 threads - Process,run_22,0.456378400005633,valid
+B.py - 2 threads - Process,run_23,0.4581233999924734,valid
+B.py - 2 threads - Process,run_24,0.47448740000254475,valid
+B.py - 2 threads - Process,run_25,0.4697747000027448,valid
+B.py - 2 threads - Process,run_26,0.47840620001079515,valid
+B.py - 2 threads - Process,run_27,0.44435830001020804,valid
+B.py - 2 threads - Process,run_28,0.45753099999274127,valid
+B.py - 2 threads - Process,run_29,0.4687841999984812,valid
+B.py - 2 threads - Process,run_30,0.4664463000081014,valid
+B.py - 2 threads - Process,mean_filtered,0.4650465407413086,computed
+B.py - 2 threads - Thread,run_1,0.5918090000050142,warmup
+B.py - 2 threads - Thread,run_2,0.5979735000000801,warmup
+B.py - 2 threads - Thread,run_3,0.596782099979464,warmup
+B.py - 2 threads - Thread,run_4,0.5954175000078976,valid
+B.py - 2 threads - Thread,run_5,0.6036434000125155,valid
+B.py - 2 threads - Thread,run_6,0.5961896000080742,valid
+B.py - 2 threads - Thread,run_7,0.5913071999966633,valid
+B.py - 2 threads - Thread,run_8,0.5944434000120964,valid
+B.py - 2 threads - Thread,run_9,0.5914169999887235,valid
+B.py - 2 threads - Thread,run_10,0.5909786999982316,valid
+B.py - 2 threads - Thread,run_11,0.5918079999973997,valid
+B.py - 2 threads - Thread,run_12,0.5864974000141956,valid
+B.py - 2 threads - Thread,run_13,0.584195000003092,valid
+B.py - 2 threads - Thread,run_14,0.596024500002386,valid
+B.py - 2 threads - Thread,run_15,0.5968266999989282,valid
+B.py - 2 threads - Thread,run_16,0.6037558999960311,valid
+B.py - 2 threads - Thread,run_17,0.6054103000205941,valid
+B.py - 2 threads - Thread,run_18,0.5920550000155345,valid
+B.py - 2 threads - Thread,run_19,0.6018864999932703,valid
+B.py - 2 threads - Thread,run_20,0.6116711999929976,valid
+B.py - 2 threads - Thread,run_21,0.6019277999876067,valid
+B.py - 2 threads - Thread,run_22,0.5963358999870252,valid
+B.py - 2 threads - Thread,run_23,0.6042734000075143,valid
+B.py - 2 threads - Thread,run_24,0.5947418000141624,valid
+B.py - 2 threads - Thread,run_25,0.6101372999837622,valid
+B.py - 2 threads - Thread,run_26,0.5998122000019066,valid
+B.py - 2 threads - Thread,run_27,0.6021000000182539,valid
+B.py - 2 threads - Thread,run_28,0.5997332999831997,valid
+B.py - 2 threads - Thread,run_29,0.599567900004331,valid
+B.py - 2 threads - Thread,run_30,0.6066865000175312,valid
+B.py - 2 threads - Thread,mean_filtered,0.5981053111134786,computed
+B.py - 4 threads - Process,run_1,0.38663009999436326,warmup
+B.py - 4 threads - Process,run_2,0.3905423999822233,warmup
+B.py - 4 threads - Process,run_3,0.37112060000072233,warmup
+B.py - 4 threads - Process,run_4,0.37945889998809434,valid
+B.py - 4 threads - Process,run_5,0.36284049999085255,valid
+B.py - 4 threads - Process,run_6,0.37012140001752414,valid
+B.py - 4 threads - Process,run_7,0.39793080001254566,valid
+B.py - 4 threads - Process,run_8,0.38750500002061017,valid
+B.py - 4 threads - Process,run_9,0.3886793999990914,valid
+B.py - 4 threads - Process,run_10,0.3792931000061799,valid
+B.py - 4 threads - Process,run_11,0.39366770000196993,valid
+B.py - 4 threads - Process,run_12,0.37306909999460913,valid
+B.py - 4 threads - Process,run_13,0.39915599999949336,valid
+B.py - 4 threads - Process,run_14,0.3906507999927271,valid
+B.py - 4 threads - Process,run_15,0.3820070000074338,valid
+B.py - 4 threads - Process,run_16,0.38716569999814965,valid
+B.py - 4 threads - Process,run_17,0.39320689998567104,valid
+B.py - 4 threads - Process,run_18,0.3859933999774512,valid
+B.py - 4 threads - Process,run_19,0.39335379999829456,valid
+B.py - 4 threads - Process,run_20,0.3777865000010934,valid
+B.py - 4 threads - Process,run_21,0.3700533999945037,valid
+B.py - 4 threads - Process,run_22,0.37552810000488535,valid
+B.py - 4 threads - Process,run_23,0.3863590999972075,valid
+B.py - 4 threads - Process,run_24,0.37681159999920055,valid
+B.py - 4 threads - Process,run_25,0.37481549999210984,valid
+B.py - 4 threads - Process,run_26,0.39367760001914576,valid
+B.py - 4 threads - Process,run_27,0.3892414000001736,valid
+B.py - 4 threads - Process,run_28,0.3775237000081688,valid
+B.py - 4 threads - Process,run_29,0.37224419999984093,valid
+B.py - 4 threads - Process,run_30,0.3820506999909412,valid
+B.py - 4 threads - Process,mean_filtered,0.3829700481480729,computed
+B.py - 4 threads - Thread,run_1,0.5942147000168916,warmup
+B.py - 4 threads - Thread,run_2,0.6004932000068948,warmup
+B.py - 4 threads - Thread,run_3,0.5959113999851979,warmup
+B.py - 4 threads - Thread,run_4,0.6096710000128951,valid
+B.py - 4 threads - Thread,run_5,0.5953324000001885,valid
+B.py - 4 threads - Thread,run_6,0.6041763999965042,valid
+B.py - 4 threads - Thread,run_7,0.5976670000236481,valid
+B.py - 4 threads - Thread,run_8,0.6007588000211399,valid
+B.py - 4 threads - Thread,run_9,0.5922782999987248,valid
+B.py - 4 threads - Thread,run_10,0.5915913000062574,valid
+B.py - 4 threads - Thread,run_11,0.5894294000172522,valid
+B.py - 4 threads - Thread,run_12,0.590048600017326,valid
+B.py - 4 threads - Thread,run_13,0.5903546000190545,valid
+B.py - 4 threads - Thread,run_14,0.5897712000005413,valid
+B.py - 4 threads - Thread,run_15,0.5889475999865681,valid
+B.py - 4 threads - Thread,run_16,0.5872067000018433,valid
+B.py - 4 threads - Thread,run_17,0.5851713999873027,valid
+B.py - 4 threads - Thread,run_18,0.5878838999778964,valid
+B.py - 4 threads - Thread,run_19,0.5860173999972176,valid
+B.py - 4 threads - Thread,run_20,0.6023333999910392,valid
+B.py - 4 threads - Thread,run_21,0.5974400999839418,valid
+B.py - 4 threads - Thread,run_22,0.5931273000023793,valid
+B.py - 4 threads - Thread,run_23,0.5973568999907002,valid
+B.py - 4 threads - Thread,run_24,0.5977235999889672,valid
+B.py - 4 threads - Thread,run_25,0.604470999998739,valid
+B.py - 4 threads - Thread,run_26,0.5998711000138428,valid
+B.py - 4 threads - Thread,run_27,0.5920731000078376,valid
+B.py - 4 threads - Thread,run_28,0.604473199986387,valid
+B.py - 4 threads - Thread,run_29,0.5978983999812044,valid
+B.py - 4 threads - Thread,run_30,0.5977772999904118,valid
+B.py - 4 threads - Thread,mean_filtered,0.5952167185185115,computed
+B.py - 8 threads - Process,run_1,0.30691750001278706,warmup
+B.py - 8 threads - Process,run_2,0.30031180000514723,warmup
+B.py - 8 threads - Process,run_3,0.3027697000070475,warmup
+B.py - 8 threads - Process,run_4,0.30635299999266863,valid
+B.py - 8 threads - Process,run_5,0.31336780000128783,valid
+B.py - 8 threads - Process,run_6,0.3362450000131503,valid
+B.py - 8 threads - Process,run_7,0.334554399974877,valid
+B.py - 8 threads - Process,run_8,0.3165580999921076,valid
+B.py - 8 threads - Process,run_9,0.3438268000027165,valid
+B.py - 8 threads - Process,run_10,0.3058430000091903,valid
+B.py - 8 threads - Process,run_11,0.33168629999272525,valid
+B.py - 8 threads - Process,run_12,0.3218767999787815,valid
+B.py - 8 threads - Process,run_13,0.3153541999927256,valid
+B.py - 8 threads - Process,run_14,0.3112595999846235,valid
+B.py - 8 threads - Process,run_15,0.33371410000836477,valid
+B.py - 8 threads - Process,run_16,0.31490260001737624,valid
+B.py - 8 threads - Process,run_17,0.33006140001816675,valid
+B.py - 8 threads - Process,run_18,0.34320639999350533,valid
+B.py - 8 threads - Process,run_19,0.32480169998598285,valid
+B.py - 8 threads - Process,run_20,0.32205079999403097,valid
+B.py - 8 threads - Process,run_21,0.3163435999886133,valid
+B.py - 8 threads - Process,run_22,0.30720469998777844,valid
+B.py - 8 threads - Process,run_23,0.3234165000030771,valid
+B.py - 8 threads - Process,run_24,0.30314080000971444,valid
+B.py - 8 threads - Process,run_25,0.3148075999924913,valid
+B.py - 8 threads - Process,run_26,0.3170494999794755,valid
+B.py - 8 threads - Process,run_27,0.3170650999818463,valid
+B.py - 8 threads - Process,run_28,0.3283295000146609,valid
+B.py - 8 threads - Process,run_29,0.3447575999889523,valid
+B.py - 8 threads - Process,run_30,0.32871880001039244,valid
+B.py - 8 threads - Process,mean_filtered,0.3224628037003438,computed
+B.py - 8 threads - Thread,run_1,0.6037699999869801,warmup
+B.py - 8 threads - Thread,run_2,0.5948066999844741,warmup
+B.py - 8 threads - Thread,run_3,0.5982346000091638,warmup
+B.py - 8 threads - Thread,run_4,0.5942543999990448,valid
+B.py - 8 threads - Thread,run_5,0.5946022999996785,valid
+B.py - 8 threads - Thread,run_6,0.5914891999855172,valid
+B.py - 8 threads - Thread,run_7,0.585377499985043,valid
+B.py - 8 threads - Thread,run_8,0.5890561999985948,valid
+B.py - 8 threads - Thread,run_9,0.5951727999781724,valid
+B.py - 8 threads - Thread,run_10,0.5864364999870304,valid
+B.py - 8 threads - Thread,run_11,0.5882408000179566,valid
+B.py - 8 threads - Thread,run_12,0.5907312000053935,valid
+B.py - 8 threads - Thread,run_13,0.6067967999842949,valid
+B.py - 8 threads - Thread,run_14,0.6049238999839872,valid
+B.py - 8 threads - Thread,run_15,0.6161324999993667,valid
+B.py - 8 threads - Thread,run_16,0.6116969999857247,valid
+B.py - 8 threads - Thread,run_17,0.5958515999955125,valid
+B.py - 8 threads - Thread,run_18,0.6070867999806069,valid
+B.py - 8 threads - Thread,run_19,0.6030545999819878,valid
+B.py - 8 threads - Thread,run_20,0.6032814999925904,valid
+B.py - 8 threads - Thread,run_21,0.6041741000080947,valid
+B.py - 8 threads - Thread,run_22,0.5973739000037313,valid
+B.py - 8 threads - Thread,run_23,0.5942467999993823,valid
+B.py - 8 threads - Thread,run_24,0.5869747999822721,valid
+B.py - 8 threads - Thread,run_25,0.6065900000103284,valid
+B.py - 8 threads - Thread,run_26,0.6047629000095185,valid
+B.py - 8 threads - Thread,run_27,0.5977988000086043,valid
+B.py - 8 threads - Thread,run_28,0.6140458000008948,valid
+B.py - 8 threads - Thread,run_29,0.586872800020501,valid
+B.py - 8 threads - Thread,run_30,0.5911854000005405,valid
+B.py - 8 threads - Thread,mean_filtered,0.5980818851816433,computed
+B.py - 16 threads - Process,run_1,0.34197199999471195,warmup
+B.py - 16 threads - Process,run_2,0.31070820000604726,warmup
+B.py - 16 threads - Process,run_3,0.3279743999883067,warmup
+B.py - 16 threads - Process,run_4,0.3194420999789145,valid
+B.py - 16 threads - Process,run_5,0.31750549998832867,valid
+B.py - 16 threads - Process,run_6,0.3109585999918636,valid
+B.py - 16 threads - Process,run_7,0.3410753999778535,valid
+B.py - 16 threads - Process,run_8,0.3303567999973893,valid
+B.py - 16 threads - Process,run_9,0.33970680000493303,valid
+B.py - 16 threads - Process,run_10,0.3261435000167694,valid
+B.py - 16 threads - Process,run_11,0.30708709999453276,valid
+B.py - 16 threads - Process,run_12,0.2998907000001054,valid
+B.py - 16 threads - Process,run_13,0.30293689999962226,valid
+B.py - 16 threads - Process,run_14,0.3273213000211399,valid
+B.py - 16 threads - Process,run_15,0.325237000011839,valid
+B.py - 16 threads - Process,run_16,0.3117976999783423,valid
+B.py - 16 threads - Process,run_17,0.31911260000197217,valid
+B.py - 16 threads - Process,run_18,0.304808699991554,valid
+B.py - 16 threads - Process,run_19,0.3330460000142921,valid
+B.py - 16 threads - Process,run_20,0.33311949999188073,valid
+B.py - 16 threads - Process,run_21,0.3483385999861639,valid
+B.py - 16 threads - Process,run_22,0.3234556999814231,valid
+B.py - 16 threads - Process,run_23,0.3284441999858245,valid
+B.py - 16 threads - Process,run_24,0.33070339998812415,valid
+B.py - 16 threads - Process,run_25,0.31561439999495633,valid
+B.py - 16 threads - Process,run_26,0.34595019998960197,valid
+B.py - 16 threads - Process,run_27,0.3072105999744963,valid
+B.py - 16 threads - Process,run_28,0.33283279999159276,valid
+B.py - 16 threads - Process,run_29,0.3165982000064105,valid
+B.py - 16 threads - Process,run_30,0.3310588000167627,valid
+B.py - 16 threads - Process,mean_filtered,0.3233241888843218,computed
+B.py - 16 threads - Thread,run_1,0.60421230000793,warmup
+B.py - 16 threads - Thread,run_2,0.589909100002842,warmup
+B.py - 16 threads - Thread,run_3,0.5983023000007961,warmup
+B.py - 16 threads - Thread,run_4,0.5983043999876827,valid
+B.py - 16 threads - Thread,run_5,0.6014242999954149,valid
+B.py - 16 threads - Thread,run_6,0.5913291999895591,valid
+B.py - 16 threads - Thread,run_7,0.5971134999999776,valid
+B.py - 16 threads - Thread,run_8,0.6023599000182003,valid
+B.py - 16 threads - Thread,run_9,0.6067273000080604,valid
+B.py - 16 threads - Thread,run_10,0.593262299982598,valid
+B.py - 16 threads - Thread,run_11,0.5886384999903385,valid
+B.py - 16 threads - Thread,run_12,0.6104753999970853,valid
+B.py - 16 threads - Thread,run_13,0.6028601000143681,valid
+B.py - 16 threads - Thread,run_14,0.601980299979914,valid
+B.py - 16 threads - Thread,run_15,0.6014184000086971,valid
+B.py - 16 threads - Thread,run_16,0.609687300020596,valid
+B.py - 16 threads - Thread,run_17,0.603209799999604,valid
+B.py - 16 threads - Thread,run_18,0.6052386999945156,valid
+B.py - 16 threads - Thread,run_19,0.6003502999956254,valid
+B.py - 16 threads - Thread,run_20,0.5862697999982629,valid
+B.py - 16 threads - Thread,run_21,0.5835627999913413,valid
+B.py - 16 threads - Thread,run_22,0.5931148999952711,valid
+B.py - 16 threads - Thread,run_23,0.5908953000034671,valid
+B.py - 16 threads - Thread,run_24,0.5919192000001203,valid
+B.py - 16 threads - Thread,run_25,0.5858019000152126,valid
+B.py - 16 threads - Thread,run_26,0.5870416999969166,valid
+B.py - 16 threads - Thread,run_27,0.587231299985433,valid
+B.py - 16 threads - Thread,run_28,0.5975120000075549,valid
+B.py - 16 threads - Thread,run_29,0.6048479000164662,valid
+B.py - 16 threads - Thread,run_30,0.6030799000000115,valid
+B.py - 16 threads - Thread,mean_filtered,0.597246533333048,computed
