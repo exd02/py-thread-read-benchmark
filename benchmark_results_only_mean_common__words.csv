@@ -1,11 +1,10 @@
-SYSTEM INFORMATION
-Processor,AMD Ryzen 7 5700X 8-Core Processor
-Physical Cores,8
-Total Threads,16
-RAM (GB),31.93
-Operating System,Windows 11
-
-BENCHMARK RESULTS
+SYSTEM INFORMATION,,,
+Processor,AMD Ryzen 7 5700X 8-Core Processor,,
+Physical Cores,8,,
+Total Threads,16,,
+RAM (GB),31.93,,
+Operating System,Windows 11,,
+BENCHMARK RESULTS,,,
 Label,Execution,Time (s),Status
 A.py,mean_filtered,0.5586078249980346,computed
 B.py - 2 threads - Process,mean_filtered,0.4650465407413086,computed
