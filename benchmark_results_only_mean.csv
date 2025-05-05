@@ -1,9 +1,9 @@
-SYSTEM INFORMATION
-Processor,AMD Ryzen 7 5700X 8-Core Processor
-Physical Cores,8
-Total Threads,16
-RAM (GB),31.93
-Operating System,Windows 11
+SYSTEM INFORMATION,,,
+Processor,AMD Ryzen 7 5700X 8-Core Processor,,
+Physical Cores,8,,
+Total Threads,16,,
+RAM (GB),31.93,,
+Operating System,Windows 11,,
 
 BENCHMARK RESULTS
 Label,Execution,Time (s),Status
