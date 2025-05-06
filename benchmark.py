@@ -5,6 +5,7 @@ import csv
 import platform
 import psutil
 import cpuinfo 
+import sys
 
 REPEATS = 30
 WARMUPS = 3  # the first n tests will be ignored for the final calculation
@@ -97,16 +98,15 @@ def save_results_csv(system_info, results, filename="benchmark_results.csv"):
 
 def main():
     system_info = get_system_info()
-    
+
     results = []
-    results.append(benchmark_program("A.py", ["python", "A.py"]))
+    results.append(benchmark_program("A.py", [sys.executable, "A.py"]))
 
     for threads in THREAD_COUNTS:
         for executor in ["process", "thread"]:
-                label = f"B.py - {threads} threads - {executor.capitalize()}"
-                command = ["python", "B.py", str(threads), executor]
-                results.append(benchmark_program(label, command)) 
-
+            label = f"B.py - {threads} threads - {executor.capitalize()}"
+            command = [sys.executable, "B.py", str(threads), executor]
+            results.append(benchmark_program(label, command)) 
 
     save_results_csv(system_info, results)
     print("Benchmark completed. Results saved to 'benchmark_results.csv'")
